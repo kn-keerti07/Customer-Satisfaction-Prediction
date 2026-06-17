@@ -21,7 +21,7 @@ https://customer-satisfaction-prediction-653zgbazwarwenz9uqzknq.streamlit.app/
 
 ## 📂 Dataset
 
-**Dataset Name:** Bank Customer Churn Dataset
+**Dataset Name:** Churn_Modelling.csv
 
 The dataset contains customer information such as:
 
